@@ -1,2 +1,2 @@
 # Testing
-Bear
+Learning Bear
